@@ -2,11 +2,11 @@
 
 Glad to see you made it here!
 
-## Background
+## 🎨 Background
 
 Welcome to Master Finance & Election Analysis in Python! You will showcase your Python skills through two intriguing challenges: PyBank and PyPoll. These challenges simulate real-world scenarios.
 
-## Before You Begin
+## 🗺️ Before You Begin
 
 Before diving into the challenges, ensure you follow these steps:
 
@@ -61,3 +61,5 @@ Example results:
     Winner: Diana DeGette
     
 Export results to Analysis/PyPoll_output.txt.
+
+## 🎉 Happy Coding
